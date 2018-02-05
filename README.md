@@ -7,7 +7,7 @@ npm install
 
 npm run dev
 
-即可通过访问地址：http://locallhost:8088/访问demo
+即可通过访问地址：http://locallhost:8088/ 访问demo
 
 #### 资源
 
